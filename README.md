@@ -1,10 +1,4 @@
-# **_Diabetic Retinopathy Detection_**
-> Information about this disease is at the bottom
 
-#### The below video link will redirect to a detailed explanation of this project:>
->**https://1drv.ms/v/s!Avx3FKuC_L2VsklTF9VyDYxqUDRG**
-
-# ------------------------------------------------------
 
 #### Project Description:
 
